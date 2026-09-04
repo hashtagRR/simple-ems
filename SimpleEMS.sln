@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BB9500C04F79041C}") = "SimpleEMS", "SimpleEMS.csproj", "{372C0D4C-7EDE-4BF0-919B-80D78E64B1D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{372C0D4C-7EDE-4BF0-919B-80D78E64B1D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{372C0D4C-7EDE-4BF0-919B-80D78E64B1D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{372C0D4C-7EDE-4BF0-919B-80D78E64B1D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{372C0D4C-7EDE-4BF0-919B-80D78E64B1D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
